@@ -1,2 +1,2 @@
 # MiniProject3_Reardon
-EC601 Mini Project 3
+This is the tutorial for the <b> XCODE <\b> environment.
